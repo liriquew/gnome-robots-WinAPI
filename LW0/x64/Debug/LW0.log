@@ -1,0 +1,24 @@
+﻿  Game.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(8,31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(8,21): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(157,107): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(157,99): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(157,89): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(157,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(160,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(161,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(162,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(168,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(169,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(170,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(255,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\Game.cpp(432,114): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  LW0.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(8,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(8,1):
+  "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(338,40): warning C4244: аргумент: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(547,28): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  Создание кода...
+  LW0.vcxproj -> C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\x64\Debug\LW0.exe

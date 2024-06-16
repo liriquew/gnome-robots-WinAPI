@@ -1,0 +1,6 @@
+﻿  LW0.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(63,18): error C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(74,18): error C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(306,40): warning C4244: аргумент: преобразование "LPARAM" в "int", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(322,28): warning C4244: =: преобразование "INT_PTR" в "short", возможна потеря данных
+C:\Users\kiril\OneDrive\Рабочий стол\while(true)\универ\6 сем\ОС\0\LW0\LW0\LW0.cpp(498,28): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
